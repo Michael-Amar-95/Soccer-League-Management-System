@@ -51,15 +51,15 @@ Choose one of the following options:
 ### Installation and Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/soccer-league.git
+   git clone https://github.com/Michael-Amar-95/Soccer-League-Management-System.git
    ```
 2. Compile the program using a C++ compiler:
    ```bash
-   g++ -o soccer_league main.cpp
+   g++ -o Soccer-League-Management-System main.cpp
    ```
 3. Run the program:
    ```bash
-   ./soccer_league
+   ./Soccer-League-Management-System
    ```
 
 ### License
